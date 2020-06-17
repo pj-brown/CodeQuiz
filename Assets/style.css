@@ -1,0 +1,42 @@
+.navbar {
+    margin: 1px;
+    padding: 0px;
+    position: static;
+    height: 100px;
+
+}
+
+.right-side {
+    float: right;
+}
+
+.left-side {
+    float: left;
+}
+
+body {
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: skyblue;
+    width: 640px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    margin-top: 200px;
+    border-radius: 25px;
+    line-height: 180%;
+}
+
+.btn {
+    background-color: slateblue;
+    color: white;
+    margin-top: 25px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 15px;
+    font-size: larger;
+    border: none;
+}
